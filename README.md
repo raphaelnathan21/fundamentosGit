@@ -81,5 +81,8 @@ O sinal verde `+` representa o que foi adicionado/editado no versionamento, enqu
 * 2ª opção: utilizando o mesmo link presente na imagem acima, abra o terminal e digite `git clone <link copiado do repositório remoto>`
 **Observação**: é importante que, ao clonar um repositório de sua própria conta no Github, verifique  qual branch está como `default`, pois o **projeto clonado será aquele que se encontra na branch `default`**
 
+## Pull
 
+* E se o desenvolvedor, ao digitar novos códigos em seu computador de casa e enviá-los para o reprositório remoto, perceber ao chegar no trabalho que o projeto na máquina do escritório está desatualizado?
 
+* Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
